@@ -1,6 +1,6 @@
 # LNP/BP[^acro] Standards Association 
 
-We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network**. We are creators of L2 and L3 protocols like RGB, Bifrost, Storm, Prometheus, Kaleidoscope and active builders of **#BiFi** (bitcoin finance) ecosystem on Lightning. We manage set of [LNPBP standards](https://github.com/LNP-BP/LNPBPs) and their [reference implementations](#libraries-and-products). The Association was founded by [@dr-orlovsky](https://github.com/dr-orlovsky) and [@giacomozucco](https://github.com/giacomozucco) in 2019. You can read more about us on our website, [lnp-bp.org](https://lnp-bp.org) and follow us in Twitter [@lnpbp](https://twitter.com/lnp_bp).
+We are Swiss non-profit **supervising layer 2 & 3 open standards and protocols for Bitcoin & Lightning Network**. We are creators of L2 and L3 protocols like RGB, Bifrost, Storm, Prometheus, Kaleidoscope and active builders of **#BiFi** (bitcoin finance) ecosystem on Lightning. We manage set of [LNPBP standards](https://github.com/LNP-BP/LNPBPs) and their opensource [reference implementations](#libraries-and-products) under permissive MIT & Apache2 licenses. The Association was founded by [@dr-orlovsky](https://github.com/dr-orlovsky) and [@giacomozucco](https://github.com/giacomozucco) in 2019. You can read more about us on our website, [lnp-bp.org](https://lnp-bp.org) and follow us in Twitter [@lnpbp](https://twitter.com/lnp_bp).
 
 ## LNPBP Standards
 
