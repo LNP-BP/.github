@@ -1,6 +1,6 @@
 # LNP/BP[^acro] Standards Association 
 
-We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network**. We manage set of [LNPBP standards](https://github.com/LNP-BP/LNPBPs) and do [reference implementations](#libraries-and-products). The Association was founded by [@dr-orlovsky](https://github.com/dr-orlovsky) and [@giacomozucco](https://github.com/giacomozucco) in 2019. You can read more about us on our website, [lnp-bp.org](https://lnp-bp.org) and follow us in Twitter [@lnpbp](https://twitter.com/lnp_bp).
+We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network**. We are creators of L2 and L3 protocols like RGB, Bifrost, Storm, Prometheus, Kaleidoscope and active builders of **#BiFi** (bitcoin finance) ecosystem on Lightning. We manage set of [LNPBP standards](https://github.com/LNP-BP/LNPBPs) and their [reference implementations](#libraries-and-products). The Association was founded by [@dr-orlovsky](https://github.com/dr-orlovsky) and [@giacomozucco](https://github.com/giacomozucco) in 2019. You can read more about us on our website, [lnp-bp.org](https://lnp-bp.org) and follow us in Twitter [@lnpbp](https://twitter.com/lnp_bp).
 
 ## LNPBP Standards
 
@@ -24,12 +24,11 @@ maintained by a working groups inside the Association.
 
 ## Libraries and products
 
-LNP/BP Association is major contributor into @rust-bitcoin projects; @dr-orlovsky 
-(founder and lead engineer of the Association) is one of maintainers of 
-[rust bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) implementation. 
+LNP/BP Association is [major contributor](https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&to=2022-04-01&type=c) into [@rust-bitcoin](https://github.com/rust-bitcoin/) projects; [@dr-orlovsky](https://github.com/dr-orlovsky/) 
+(our chief engineer) is one of maintainers of [rust bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) implementation. 
 
 Other reference implementations & products maintained by the Association include:
-- [Client-side-validation library](https://github.com/LNP-BP/client_side_validation/);
+- [Client-side-validation](https://github.com/LNP-BP/client_side_validation/) and rust [LNPBP](https://github.com/LNP-BP/rust-lnpbp/) foundation libraries;
 - [Descriptor wallet](https://github.com/LNP-BP/descriptor-wallet/): bitcoin wallet library & cli supporting taproot, multisigs, miniscript, client-side-validation;
 - [BP Core Library](https://github.com/LNP-BP/bp-core/): implementation of deterministic bitcoin commitments and single-use-seals
 - [BP Node](https://github.com/LNP-BP/bp-node/): indexing node for bitcoin network (replacement for Electrum server)
