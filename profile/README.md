@@ -3,7 +3,9 @@
 We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network** 
 (LNP/BP stands for "Bitcoin Protocol / Lightning Network Protocol").
 
-We manage set of standards (LNPBP standards) and performs reference implementations for them.
+We manage set of standards (LNPBP standards) and do reference implementations.
+
+The Association is founded and managed by @dr-orlovsky and @giacomozucco since 2019.
 
 ## LNPBP Standards
 
