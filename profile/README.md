@@ -1,11 +1,6 @@
-# LNP/BP Standards Association 
+# LNP/BP[^acro] Standards Association 
 
-We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network** 
-(LNP/BP stands for "Bitcoin Protocol / Lightning Network Protocol").
-
-We manage set of standards (LNPBP standards) and do reference implementations.
-
-The Association is founded and managed by @dr-orlovsky and @giacomozucco since 2019.
+We are Swiss non-profit **supervising layer 2 & 3 protocols on Bitcoin & Lightning Network**. We manage set of [LNPBP standards](https://github.com/LNP-BP/LNPBPs) and do [reference implementations](#libraries-and-products). The Association was founded by [@dr-orlovsky](https://github.com/dr-orlovsky) and [@giacomozucco](https://github.com/giacomozucco) in 2019. You can read more about us on our website, [lnp-bp.org](https://lnp-bp.org) and follow us in Twitter [@lnpbp](https://twitter.com/lnp_bp).
 
 ## LNPBP Standards
 
@@ -21,11 +16,11 @@ The current list of standard can be found [here](https://github.com/LNP-BP/LNPBP
 
 The reference implementations are split across multiple GitHub organizations,
 maintained by a working groups inside the Association.
-- @RGB-WG: scalable & confidential smart contracts for Bitcoin & LN with client-side-validation
-- @LNP-WG: lightning network protocol evolution
-- @Storm-WG: protocol for trustless decentralized & incentivized data storage network on top of Lightning network with bitcoin native payments
-- @Prometheus-WG: protocol for trustless decentralized & incentivized computing network on top of Lightning network with bitcoin native payments
-- @Internet2-WG: AluVM virtual machine and network protocol implementations
+- [@RGB-WG](https://github.com/RGB-WG): scalable & confidential smart contracts for Bitcoin & LN with client-side-validation
+- [@LNP-WG](https://github.com/LNP-WG): lightning network protocol evolution
+- [@Storm-WG](https://github.com/Storm-WG): protocol for trustless decentralized & incentivized data storage network on top of Lightning network with bitcoin native payments
+- [@Prometheus-WG](https://github.com/Prometheus-WG): protocol for trustless decentralized & incentivized computing network on top of Lightning network with bitcoin native payments
+- [@Internet2-WG](https://github.com/Internet2-WG): AluVM virtual machine and network protocol implementations
 
 ## Libraries and products
 
@@ -43,3 +38,5 @@ Other reference implementations & products maintained by the Association include
 - [RGB Core Library](https://github.com/RGB-WG/rgb-core/): implementation of RGB protocol
 - [RGB Node](https://github.com/RGB-WG/rgb-node/): node for running RGB smart contracts
 - [AluVM](https://github.com/Internet2-WG/rust-aluvm/): virtual machine used in RGB smart contracts and lightning
+
+[^acro]: LNP/BP stands for "Bitcoin Protocol / Lightning Network Protocol"
