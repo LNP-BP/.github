@@ -17,6 +17,7 @@ The current list of standard can be found [here](https://github.com/LNP-BP/LNPBP
 The reference implementations are split across multiple GitHub organizations,
 maintained by a working groups inside the Association.
 - [@RGB-WG](https://github.com/RGB-WG): scalable & confidential smart contracts for Bitcoin & LN with client-side-validation
+- [@BP-WG](https://github.com/BP-WG): bitcoin protocol-related developments
 - [@LNP-WG](https://github.com/LNP-WG): lightning network protocol evolution
 - [@Storm-WG](https://github.com/Storm-WG): protocol for trustless decentralized & incentivized data storage network on top of Lightning network with bitcoin native payments
 - [@Prometheus-WG](https://github.com/Prometheus-WG): protocol for trustless decentralized & incentivized computing network on top of Lightning network with bitcoin native payments
