@@ -25,8 +25,7 @@ maintained by a working groups inside the Association.
 
 ## Libraries and products
 
-LNP/BP Association is [major contributor](https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&to=2022-04-01&type=c) into [@rust-bitcoin](https://github.com/rust-bitcoin/) projects; [@dr-orlovsky](https://github.com/dr-orlovsky/) 
-(our chief engineer) is one of maintainers of [rust bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) implementation. 
+LNP/BP Association is [major contributor](https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&to=2022-04-01&type=c) into [@rust-bitcoin](https://github.com/rust-bitcoin/) projects. 
 
 Other reference implementations & products maintained by the Association include:
 - [Client-side-validation](https://github.com/LNP-BP/client_side_validation/) and rust [LNPBP](https://github.com/LNP-BP/rust-lnpbp/) foundation libraries;
