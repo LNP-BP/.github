@@ -20,7 +20,7 @@ The reference implementations are split across multiple GitHub organizations, ma
 - [LNP-WG](https://github.com/LNP-WG): lightning network protocol evolution
 - [Storm-WG](https://github.com/Storm-WG): protocol for trustless decentralized & incentivized data storage network on top of Lightning network with bitcoin native payments
 - [Prometheus-WG](https://github.com/Prometheus-WG): protocol for trustless decentralized & incentivized computing network on top of Lightning network with bitcoin native payments
-- [AluVM](https://github.com/AluVM): AluVM virtual machine - functional RISC registry-based VM for ubiquitous deternimistic computing
+- [AluVM](https://github.com/AluVM): AluVM virtual machine - functional RISC registry-based VM for ubiquitous deterministic computing
 - [Strict Encoding](https://github.com/strict-encoding): encoding standard and schema language for deterministic binary data serialization in client-side-validation applications
 
 ## Software Products
