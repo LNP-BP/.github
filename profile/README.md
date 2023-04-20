@@ -20,16 +20,12 @@ The reference implementations are split across multiple GitHub organizations, ma
 - [LNP-WG](https://github.com/LNP-WG): lightning network protocol evolution
 - [Storm-WG](https://github.com/Storm-WG): protocol for trustless decentralized & incentivized data storage network on top of Lightning network with bitcoin native payments
 - [Prometheus-WG](https://github.com/Prometheus-WG): protocol for trustless decentralized & incentivized computing network on top of Lightning network with bitcoin native payments
-- [AluVM](https://github.com/AluVM): AluVM virtual machine - functional RISC registry-based VM for ubiquitous deterministic computing
-- [Strict Encoding](https://github.com/strict-encoding): encoding standard and schema language for deterministic binary data serialization in client-side-validation applications
 
 ## Software Products
 
+- [RGB](https://github.com/RGB-WG/rgb/): Bitcoin & Lightning smart contracts
 - [Descriptor wallet](https://github.com/LNP-BP/descriptor-wallet/): bitcoin wallet library & cli supporting taproot, multisigs, miniscript, client-side-validation;
-- [BP Node](https://github.com/LNP-BP/bp-node/): indexing node for bitcoin network (replacement for Electrum server)
-- [LNP Node](https://github.com/LNP-WG/lnp-core/): rust lightning node supporting bifrost protocol & RGB
-- [RGB Node](https://github.com/RGB-WG/rgb-node/): node for running RGB smart contracts
-- [AluVM](https://github.com/AluVM/rust-aluvm/): virtual machine used in RGB smart contracts and lightning
+- [LNP Node](https://github.com/LNP-WG/lnp-core/): rust lightning node supporting Bifrost protocol & RGB
 
 LNP/BP Association in 2019-2021 was a [major contributor](https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&to=2022-04-01&type=c) into [@rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and other related project. 
 
